@@ -1,14 +1,14 @@
 # cpp-practicles
 
-![pr_1 2](https://github.com/user-attachments/assets/c01b0c70-6640-46e8-882f-558e16539352)
+![pr_1 1](https://github.com/user-attachments/assets/4c1b1593-7b2f-46f2-8057-931dca2a661d)
+
+![Screenshot 2025-04-14 234059](https://github.com/user-attachments/assets/51f8afa4-9c64-406b-8733-369e2230c382)
 
 ![pr_2 1](https://github.com/user-attachments/assets/59cd4731-07be-424d-a66d-3f4e4c6aeea3)
 
 ![pr_2 2](https://github.com/user-attachments/assets/08e66525-827a-4216-91e4-b095bc7a3072)
 
 ![pr_2 3](https://github.com/user-attachments/assets/c09ce98f-9bb5-4649-a658-886cc0f52092)
-
-![pr_1 1](https://github.com/user-attachments/assets/4c1b1593-7b2f-46f2-8057-931dca2a661d)
 
 ![pr_2 4](https://github.com/user-attachments/assets/ac0c6d2e-3ba4-4a73-b77b-c69f1c521509)
 
